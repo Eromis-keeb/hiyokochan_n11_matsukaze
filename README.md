@@ -60,11 +60,15 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 ![IMG_6975](https://github.com/user-attachments/assets/915f73e8-3a22-4d67-ae6d-2d71322a0dd8)
 <br/>
 <br/>
+<br/>
 
 このチップ抵抗と
 ![IMG_6976](https://github.com/user-attachments/assets/cf97941b-9ee8-4c10-bf84-435638d50abd)
+<br/>
+<br/>
 このMOSFETを基板にはんだ付けしていきます。
 ![IMG_6977](https://github.com/user-attachments/assets/cacae60c-cd6c-48a1-9984-fdc310d2eeee)
+<br/>
 <br/>
 <br/>
 
