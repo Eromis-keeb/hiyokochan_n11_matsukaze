@@ -94,3 +94,9 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 
 片側がきっちり固定できたら反対側もはんだ付けしていきます。<br/>
 ![IMG_6982](https://github.com/user-attachments/assets/d3e959c9-2cfd-42b4-ada5-93a7c82b3fff)
+
+<br/>
+<br/>
+<br/>
+
+#### 2.LED本体を取り付け
