@@ -223,6 +223,30 @@ LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダ�
 
 
 
+![IMG_7010](https://github.com/user-attachments/assets/15054044-bcfc-4493-9579-a3180693c7cb)
+
+![IMG_7011](https://github.com/user-attachments/assets/e36241b5-aa96-4afe-8dfd-1e27269ce099)
+
+![IMG_7012](https://github.com/user-attachments/assets/11b46d1d-4b8b-4e46-94b3-69721f66a9a2)
+
+
+![IMG_7013](https://github.com/user-attachments/assets/0c6fc2dc-d63f-45bb-a84b-1522a1c186a7)
+
+![IMG_7014](https://github.com/user-attachments/assets/cf45bb77-c360-4d3c-85c7-e587d2dc0749)
+
+![IMG_7015](https://github.com/user-attachments/assets/cadc67cd-a510-4f50-a635-b7565d1d78e1)
+
+
+![IMG_7016](https://github.com/user-attachments/assets/80ed164e-756a-4df0-b121-7346a80d914f)
+
+
+![IMG_7017](https://github.com/user-attachments/assets/5f861ef2-c253-4738-be6f-531336a1e584)
+
+
+![IMG_7018](https://github.com/user-attachments/assets/d1ad13f0-e899-47e5-9056-484f9c8df659)
+
+
+
 
 
 
