@@ -166,6 +166,7 @@ SMDダイオードには図の赤枠内のように縦線が入っています�
 <br/>
 <br/>
 LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダイオードの片側をはんだ付けしていきます。
+それが出来たら反対側もはんだ付けしていきます。
 ![IMG_6997](https://github.com/user-attachments/assets/b4c03a3a-a197-48af-9ec3-1cb1e3cf96f7)
 <br/>
 <br/>
