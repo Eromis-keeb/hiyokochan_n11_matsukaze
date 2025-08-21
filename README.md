@@ -147,12 +147,20 @@ SMDダイオードをはんだ付けしていきます。<br/>
 SMDダイオードには図の赤枠内のように縦線が入っています。
 
 ![406658558-03dcead0-b42c-49c8-963d-3cf0ec3464ec](https://github.com/user-attachments/assets/c20f0e98-ccdc-44d6-b3e5-5fca8e272cee)
-
+<br>
+<br>
+基板緑枠内にも同じように縦線が入っている場所があります。
 ![IMG_6993](https://github.com/user-attachments/assets/f7f76421-2a06-4c73-84a7-74037d2cc11e)
-
+<br/>
+<br/>
+予備はんだをしたら・・
 ![IMG_6994](https://github.com/user-attachments/assets/5b08fded-789e-4359-ad67-5e2ae09606b3)
-
+<br/>
+<br/>
+その縦線と、緑枠内の基板上の縦線の向きが合うようにSMDダイオードを配置します。
 ![IMG_6995](https://github.com/user-attachments/assets/e4df4da0-299c-4268-bf1b-c33f2a7f1948)
+<br/>
+<br/>
 
 ![IMG_6996](https://github.com/user-attachments/assets/d39a79d9-5353-4875-be26-26d40d783d92)
 
