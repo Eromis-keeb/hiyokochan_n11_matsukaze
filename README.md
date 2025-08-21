@@ -56,8 +56,12 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 <br/>
 ### LEDの取り付け
 レベルシフト回路にチップ抵抗とMOSFETをはんだ付け→LEDのはんだ付けの準で処理していきます。
+#### 1.チップ抵抗、MOSFETの取り付け
 ![IMG_6975](https://github.com/user-attachments/assets/915f73e8-3a22-4d67-ae6d-2d71322a0dd8)
+このチップ抵抗と
 ![IMG_6976](https://github.com/user-attachments/assets/cf97941b-9ee8-4c10-bf84-435638d50abd)
+このMOSFETを基板にはんだ付けしていきます。
+
 ![IMG_6977](https://github.com/user-attachments/assets/cacae60c-cd6c-48a1-9984-fdc310d2eeee)
 ![IMG_6978](https://github.com/user-attachments/assets/d46dc75a-036a-4bf0-bdeb-e56670230e30)
 ![IMG_6978](https://github.com/user-attachments/assets/904d63b0-3a59-4903-be75-18168b018219)
