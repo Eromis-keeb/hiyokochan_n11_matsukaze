@@ -103,9 +103,6 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 <br/>
 <br/>
 基板裏面のLED1-LED14の部分にLED本体をはんだ付けしていきます。<br/>
-![IMG_6983](https://github.com/user-attachments/assets/83f6d27e-8cd1-4ccb-a20f-89834a7856ef)
-![IMG_6984](https://github.com/user-attachments/assets/9d20364d-9439-4250-9d7a-00bfc37ae5b9)
-
 
 ![IMG_6985](https://github.com/user-attachments/assets/fb3317a1-f6a9-45b3-9ced-8fe0db84e212)
 ![IMG_6986](https://github.com/user-attachments/assets/cfc7f62b-657e-446c-8aac-ce780027e952)
