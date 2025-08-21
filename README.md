@@ -1,3 +1,4 @@
+![IMG_7039](https://github.com/user-attachments/assets/f73fa648-31b9-47ec-b195-29c7eed49437)
 # hiyokochan_n11 / 松風 ビルドガイド
 hiyokochan_n11/松風は以下の特徴を備えるマクロパッドです。
 - テンキー配列の11キー
