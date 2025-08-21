@@ -161,10 +161,13 @@ SMDダイオードには図の赤枠内のように縦線が入っています�
 ![IMG_6995](https://github.com/user-attachments/assets/e4df4da0-299c-4268-bf1b-c33f2a7f1948)
 <br/>
 <br/>
-
+チップ抵抗の時と同じ要領で予備はんだを溶かし、SMDダイオードをスライドさせてはんだ付けします。
 ![IMG_6996](https://github.com/user-attachments/assets/d39a79d9-5353-4875-be26-26d40d783d92)
-
+<br/>
+<br/>
 ![IMG_6997](https://github.com/user-attachments/assets/b4c03a3a-a197-48af-9ec3-1cb1e3cf96f7)
+<br/>
+<br/>
 
 
 
