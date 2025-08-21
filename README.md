@@ -48,9 +48,11 @@ MXキーキャップ |x11
 <br/>
 ## 組み立て
 基板部分は松風として解説していきます。hiyokochan_n11は基板共用なので全く同じです。
+![IMG_6974](https://github.com/user-attachments/assets/49af0c97-d4c3-4640-bef5-6b61a42c7d46)
 
 LED→SMDダイオード→スイッチソケットの順ではんだ付けします。<br/>
 <br/>
 <br/>
 <br/>
 ### LEDの取り付け
+![IMG_6975](https://github.com/user-attachments/assets/915f73e8-3a22-4d67-ae6d-2d71322a0dd8)
