@@ -78,6 +78,11 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 <br/>
 <br/>
 
+フラックスを流布してから青枠のように片側に予備はんだをしていきます。
+はんだごてにごく少量はんだを乗せてからパッドにこて先をあて、こて先を少し立てるようにするとはんだが流れて乗りやすくなると思います。
 ![IMG_6980](https://github.com/user-attachments/assets/36eca67b-2711-4263-83fb-180ad9495646)
+<br/>
+<br/>
+
 ![IMG_6981](https://github.com/user-attachments/assets/d2698fca-a977-4286-a89b-c182623f999f)
 ![IMG_6982](https://github.com/user-attachments/assets/d3e959c9-2cfd-42b4-ada5-93a7c82b3fff)
