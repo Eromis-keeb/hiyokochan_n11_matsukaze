@@ -222,24 +222,51 @@ LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダ�
 <br/>
 
 
-
+### 4.ロータリーエンコーダーの取り付け
+<br/>
+<br/>
+#### 4-1.Millmaxの取り付け
+<br/>
+<br/>
+Millmaxを１つのロータリーエンコーダーに対して５つ、３つのロータリーエンコーダーを取り付けるので計15個はんだ付けしていきます。<br/>
+非常に小さい部品かつ、そこそこ高価なのでなくさないように気をつけて作業してください。<br/>
 ![IMG_7010](https://github.com/user-attachments/assets/15054044-bcfc-4493-9579-a3180693c7cb)
-
+<br/>
+<br/>
+オレンジ枠（１つのロータリーエンコーダーの取り付け部）内の、青枠内の上２つ、下３つの穴に”表面”から部品を差し込みます。<br/>
+表裏間違えると取り付け出来なくなるので注意してください。<br/>
 ![IMG_7011](https://github.com/user-attachments/assets/e36241b5-aa96-4afe-8dfd-1e27269ce099)
+<br/>
+<br/>
 
+こちらは裏側<br/>
+黄色枠内−裏側の穴にフラックスを塗布します。<br/>
 ![IMG_7012](https://github.com/user-attachments/assets/11b46d1d-4b8b-4e46-94b3-69721f66a9a2)
+<br/>
+<br/>
 
-
+こちらは表面<br/>
+緑枠内−表側の穴に部品を合計5個差し込みます。<br/>
 ![IMG_7013](https://github.com/user-attachments/assets/0c6fc2dc-d63f-45bb-a84b-1522a1c186a7)
-
+<br/>
+<br/>
+差し込めたら裏向きにしても外れないようにマスキングテープなどでしっかり固定します。<br/>
 ![IMG_7014](https://github.com/user-attachments/assets/cf45bb77-c360-4d3c-85c7-e587d2dc0749)
-
+<br/>
+<br/>
+上下両方とも固定します。<br/>
 ![IMG_7015](https://github.com/user-attachments/assets/cadc67cd-a510-4f50-a635-b7565d1d78e1)
-
-
+<br/>
+<br/>
+テープで固定出来たら裏返します。<br/>
+裏側赤枠内の部品が飛び出ている周りのランド部分にこれまでと同じ要領ではんだを流し込み固定します。<br/>
+この際、飛び出ている穴にはんだが入ってしまわないように注意してください。<br/>
+差し込めなくなってしまいますので。<br/>
 ![IMG_7016](https://github.com/user-attachments/assets/80ed164e-756a-4df0-b121-7346a80d914f)
+<br/>
+<br/>
 
-
+#### 4-2.ロータリーエンコーダー本体の取り付け
 ![IMG_7017](https://github.com/user-attachments/assets/5f861ef2-c253-4738-be6f-531336a1e584)
 
 
