@@ -138,3 +138,14 @@ LED本体オレンジ枠のように切り欠きの部分と予備はんだを�
 
 <br/>
 <br/>
+
+#### 3.SMDダイオードの取り付け
+<br/>
+<br/>
+SMDダイオードをはんだ付けしていきます。<br/>
+
+SMDダイオードには図の赤枠内のように縦線が入っています。
+
+![406658558-03dcead0-b42c-49c8-963d-3cf0ec3464ec](https://github.com/user-attachments/assets/c20f0e98-ccdc-44d6-b3e5-5fca8e272cee)
+
+
