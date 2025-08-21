@@ -100,3 +100,11 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 <br/>
 
 #### 2.LED本体を取り付け
+
+![IMG_6983](https://github.com/user-attachments/assets/cc71a1b5-399b-4579-b00a-44af5bdcb536)
+![IMG_6984](https://github.com/user-attachments/assets/46dde26b-0b8a-4149-b0ef-c7cda5037ada)
+![IMG_6985](https://github.com/user-attachments/assets/fb3317a1-f6a9-45b3-9ced-8fe0db84e212)
+![IMG_6986](https://github.com/user-attachments/assets/cfc7f62b-657e-446c-8aac-ce780027e952)
+![IMG_6987](https://github.com/user-attachments/assets/92e451f6-9ef9-4ca4-97b9-82680681c663)
+![IMG_6988](https://github.com/user-attachments/assets/8cbd83dc-d4f7-4b57-ae28-24f5f5b7a637)
+![IMG_6989](https://github.com/user-attachments/assets/4b3bf301-e07d-4d0d-8c74-0dbf4d4809e7)
