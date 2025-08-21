@@ -201,12 +201,24 @@ LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダ�
 フラックスをしっかり塗布しておけばできるはず。<br/>
 はんだごてによる火傷に十分注意して最新の注意を払って行ってください。<br/>
 ![IMG_7004](https://github.com/user-attachments/assets/a332b878-1efd-40af-b6ce-bb12f6af366a)
-
+<br/>
+<br/>
+正面、左右から水平を確認します。
 ![IMG_7005](https://github.com/user-attachments/assets/28e49aa7-0e30-4993-8e46-6fd7dd068090)
+<br/>
+<br/>
 
+水平の確認が取れたら同じ要領で左右のピンにもはんだを流し込んで固定していきます。<br/>
+水平になっていない場合、こて先で中央ピンのはんだを再度温め直して修正してください。<br/>
+はんだが溶けている間は修正ができます。<br/>
+ここで修正をしておかないと後からのリカバリーは非常に難しくなるので、水平確認は確実に行いましょう。<br/>
 ![IMG_7006](https://github.com/user-attachments/assets/1bbd286a-b478-41a3-bcfd-b5204f6d2627)
+<br/>
+<br/>
 
 ![IMG_7007](https://github.com/user-attachments/assets/5a849d9c-f1d7-4011-94bb-4814b2ea1ded)
+<br/>
+<br/>
 
 
 
