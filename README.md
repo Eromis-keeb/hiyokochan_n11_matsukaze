@@ -503,55 +503,69 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 <br/>
 <br/>
 
-<br/> 
+最後に完成した基板を収めるケースを組み立てていきます。<br/> 
 
-![IMG_7143](https://github.com/user-attachments/assets/48b77268-5ad9-4d88-b39f-990dd993ec45)
-
-
-![IMG_7145](https://github.com/user-attachments/assets/ea4c13c2-067e-4e5b-ae53-6a06e2e94eb8)
-
-![IMG_7146](https://github.com/user-attachments/assets/3d8bdab9-0fc3-41aa-9bfb-66e1712399a2)
+![IMG_7143](https://github.com/user-attachments/assets/48b77268-5ad9-4d88-b39f-990dd993ec45)<br/>
 
 
-![IMG_7147](https://github.com/user-attachments/assets/8e0e1313-fc3a-4699-8d8b-131e588ff830)
+![IMG_7145](https://github.com/user-attachments/assets/ea4c13c2-067e-4e5b-ae53-6a06e2e94eb8)<br/>
+<br/>
+<br/>
 
+まずボトムプレートの保護シートを剥がします（裏表とも）<br/>
+![IMG_7146](https://github.com/user-attachments/assets/3d8bdab9-0fc3-41aa-9bfb-66e1712399a2)<br/>
+<br/>
 
+緑枠内の箇所９箇所にスペーサをM2ネジ（5-7mm）を使ってとめていきます。<br/>
+![IMG_7147](https://github.com/user-attachments/assets/8e0e1313-fc3a-4699-8d8b-131e588ff830)<br/>
+<br/>
+<br/>
+写真のように表側にスペーサーを置き、裏側からM2ネジでとめます。ｌ<br/>
+![IMG_7148](https://github.com/user-attachments/assets/f2d89995-7d26-4550-8b5b-ca6bbf668bb6)<br/>
+<br/>
+<br/>
+緑枠内の箇所に同じようにスペーサーをとめていきます。<br/>
+![IMG_7149](https://github.com/user-attachments/assets/bb93b2c7-48ff-40ce-93ee-9790f9a963a5)<br/>
+<br/>
 
-![IMG_7148](https://github.com/user-attachments/assets/f2d89995-7d26-4550-8b5b-ca6bbf668bb6)
+とめきるとこういう形になります。<br/>
+![IMG_7150](https://github.com/user-attachments/assets/f7abbd93-8f37-493f-9acd-5a12eaf797b6)<br/>
+<br/>
+<br/>
 
-![IMG_7149](https://github.com/user-attachments/assets/bb93b2c7-48ff-40ce-93ee-9790f9a963a5)
-
-
-![IMG_7150](https://github.com/user-attachments/assets/f7abbd93-8f37-493f-9acd-5a12eaf797b6)
-
-
-
-![IMG_7152](https://github.com/user-attachments/assets/63ae1ee0-88f2-4b96-bee8-806a140e47e3)
-
-
-
-
-![IMG_7153](https://github.com/user-attachments/assets/81389320-cbeb-4f02-ba5e-8eac081466ea)
-
-
-![IMG_7154](https://github.com/user-attachments/assets/aa1b5fc9-c2e2-4aa2-a70f-e9af4f91dc79)
-
-
-
-![IMG_7155](https://github.com/user-attachments/assets/d451e68c-95c6-4c60-9c7d-0b79141ccdcf)
+次に完成したボトムプレートに、ミドルプレート（下）を乗せていきます。<br/>
+![IMG_7152](https://github.com/user-attachments/assets/63ae1ee0-88f2-4b96-bee8-806a140e47e3)<br/>
 
 
 
-![IMG_7156](https://github.com/user-attachments/assets/9fa1b6b0-02c0-446a-892a-128f6673a9df)
+乗せるとこういう形になります。<br/>
+![IMG_7153](https://github.com/user-attachments/assets/81389320-cbeb-4f02-ba5e-8eac081466ea)<br/>
+<br/>
+
+隙間がないようにしっかり差し込んでください。<br/>
+![IMG_7154](https://github.com/user-attachments/assets/aa1b5fc9-c2e2-4aa2-a70f-e9af4f91dc79)<br/>
+<br/>
+<br/>
+※上記の差し込みを行う際、固くて差し込みにくい場合は無理せず以下の写真のように<br/>
+ミドルプレートの各スペーサ穴をボトムプレートを使って予め差し込みやすくしてから<br/>
+全体を差し込むとすんなり入ると思います。<br/>
+無理に強行するとアクリルが割れます。<br/>
+注意して差し込んでください。<br/>
+
+![IMG_7155](https://github.com/user-attachments/assets/d451e68c-95c6-4c60-9c7d-0b79141ccdcf)<br/>
 
 
 
-![IMG_7156](https://github.com/user-attachments/assets/53e7a1d8-b2c7-4460-8aab-6484d82368a5)
+![IMG_7156](https://github.com/user-attachments/assets/9fa1b6b0-02c0-446a-892a-128f6673a9df)<br/>
+
+
+
+![IMG_7156](https://github.com/user-attachments/assets/53e7a1d8-b2c7-4460-8aab-6484d82368a5)<br/>
 
 
 
 
-![IMG_7157](https://github.com/user-attachments/assets/09708884-3350-4949-9768-9daffc594aca)
+![IMG_7157](https://github.com/user-attachments/assets/09708884-3350-4949-9768-9daffc594aca)<br/>
 
 
 
@@ -601,7 +615,6 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 
 
 ![IMG_7168](https://github.com/user-attachments/assets/40c93db5-04c7-4770-9d93-bf247aee19b2)
-
 
 
 
