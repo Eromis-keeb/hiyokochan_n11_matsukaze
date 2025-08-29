@@ -371,3 +371,13 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 
 はんだ付け完了<br/>
 ![IMG_7135](https://github.com/user-attachments/assets/f29b6086-e746-4d71-bd4c-ad8c02da6219)<br/>
+<br/>
+<br/>
+<br/>
+
+### 6.マイコン（RP2040-ZERO）へVialファームウェアを書き込む
+<br/>
+<br/>
+
+
+
