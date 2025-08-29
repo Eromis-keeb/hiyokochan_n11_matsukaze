@@ -180,8 +180,31 @@ LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダ�
 ![IMG_6997](https://github.com/user-attachments/assets/b4c03a3a-a197-48af-9ec3-1cb1e3cf96f7)
 <br/>
 <br/>
+<br/>
 
-### 3.トグルスイッチの取り付け
+### 3.スイッチソケットの取り付け
+<br/>
+<br/>
+![IMG_7076](https://github.com/user-attachments/assets/73aafaac-82a4-4145-a90a-f7f581871770)
+
+
+MXスイッチソケットを取り付けていきます。<br/>
+<br/>
+![IMG_7077](https://github.com/user-attachments/assets/b5a3c895-7141-430e-9302-8483a2070a9b)
+
+![IMG_7078](https://github.com/user-attachments/assets/8dfdfbd3-1e32-4696-8c7c-62d920df8bc6)
+
+![IMG_7079](https://github.com/user-attachments/assets/8cb72141-86e1-4702-8b44-efd529bc4beb)
+
+![IMG_7079](https://github.com/user-attachments/assets/80615f80-0fca-4fcd-a86f-ad81147b7305)
+
+![IMG_7080](https://github.com/user-attachments/assets/83cd8f6f-8af0-4f26-b614-8478223bffc1)
+<br/>
+<br/>
+<br/>
+
+
+### 4.トグルスイッチの取り付け
 <br/>
 <br/>
 
@@ -232,23 +255,6 @@ LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダ�
 <br/>
 <br/>
 
-### 4.スイッチソケットの取り付け
-<br/>
-<br/>
-![IMG_7076](https://github.com/user-attachments/assets/73aafaac-82a4-4145-a90a-f7f581871770)
-
-
-MXスイッチソケットを取り付けていきます。<br/>
-<br/>
-![IMG_7077](https://github.com/user-attachments/assets/b5a3c895-7141-430e-9302-8483a2070a9b)
-
-![IMG_7078](https://github.com/user-attachments/assets/8dfdfbd3-1e32-4696-8c7c-62d920df8bc6)
-
-![IMG_7079](https://github.com/user-attachments/assets/8cb72141-86e1-4702-8b44-efd529bc4beb)
-
-![IMG_7079](https://github.com/user-attachments/assets/80615f80-0fca-4fcd-a86f-ad81147b7305)
-
-![IMG_7080](https://github.com/user-attachments/assets/83cd8f6f-8af0-4f26-b614-8478223bffc1)
 
 
 
