@@ -627,52 +627,88 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 ここでは額縁ミドルプレートを使用する場合の飾り付けのやり方を解説します。<br/>
 <br/>
 
-額縁ミドルプレートは上下とも0.5mm以下の薄手のものであれば組み込める額縁のような溝が掘ってあるプレートになっています。
-この溝に溝の蓋をベースに型取りして切り出す事で比較的簡単に好きな柄や色に彩ることができます。
-是非とも好きな柄で楽しんでいただきたい。
+額縁ミドルプレートは上下とも0.5mm以下の薄手のものであれば組み込める額縁のような溝が掘ってあるプレートになっています。<br/>
+この溝に溝の蓋をベースに型取りして切り出す事で比較的簡単に好きな柄や色に彩ることができます。<br/>
+是非とも好きな柄で楽しんでいただきたい。<br/>
+<br/>
+<br/>
 
-![IMG_7173](https://github.com/user-attachments/assets/40298cda-57dc-43f2-bbec-2e633a16ed19)
+はじめに切り出す素材を用意します。溝の深さは0.5mmなのでそれ以下のものであればなんでもOK。<br/>
+色紙、切り紙、千代紙、包装紙などなど。お好みのものを用意してください。<br/>
 
+![IMG_7173](https://github.com/user-attachments/assets/40298cda-57dc-43f2-bbec-2e633a16ed19)<br/>
+<br/>
+<br/>
 
-![IMG_7174](https://github.com/user-attachments/assets/5bfe2d7d-fbcc-4cdf-92f3-2d4ea85c2700)
+次にテンプレートを本体から切り離します。緑枠の部分がそれです。<br/>
+ここではミドルプレート（下）を使って説明しますが、ミドルプレート（上の）場合も同じ要領です。<br/>
+![IMG_7174](https://github.com/user-attachments/assets/5bfe2d7d-fbcc-4cdf-92f3-2d4ea85c2700)<br/>
+<br/>
 
+オレンジ矢印の指し示す下の部分にピンセットなど平べったく薄い硬めのものを差し込み・・・<br/>
+![IMG_7175](https://github.com/user-attachments/assets/8fa6bf1b-39e6-4bef-bbbd-5b6b10e3d5bf)<br/>
+赤矢印の方向へ、すくうようにして剥がします。<br/>
+向こう側へ押しながらやると綺麗に剥がれると思います。<br/>
+<br/>
+<br/>
 
-![IMG_7175](https://github.com/user-attachments/assets/8fa6bf1b-39e6-4bef-bbbd-5b6b10e3d5bf)
+剥がすとこのようになります。<br/>
+他の2つも同じように剥がします。<br/>
+![IMG_7176](https://github.com/user-attachments/assets/239a944e-22d0-48d4-9d1e-188573ee59c9)<br/>
+<br/>
+<br/>
 
+剥がしたテンプレートは表と裏があります。<br/> 
+こちらが表<br/>
+![IMG_7178](https://github.com/user-attachments/assets/71e7e499-8a0d-4425-9294-6c65ede9f77a)<br/>
+<br/>
 
-![IMG_7176](https://github.com/user-attachments/assets/239a944e-22d0-48d4-9d1e-188573ee59c9)
+こちらが裏<br/>
+![IMG_7179](https://github.com/user-attachments/assets/171344dd-3e2a-4d5d-873a-800702219c7a)<br/>
+<br/>
+<br/>
 
+切り出したテンプレートの裏側を上にして素材の上に置き、鉛筆などでテンプレートの枠をなぞります。<br/>
+この時素材の表にしたい面の向きに注意してください。<br/>
+素材の裏側にテンプレートを当てて外形をマークし切り出すイメージです。<br/>
+![IMG_7180](https://github.com/user-attachments/assets/32b5d0c8-dd91-453f-bae1-94a94550b82d)<br/>
+<br/>
+<br/>
 
+外形を描いた状態<br/>
+![IMG_7181](https://github.com/user-attachments/assets/28447861-37dc-4c4c-ae05-9e57a57e1a2d)<br/>
+<br/>
+<br/>
 
-![IMG_7178](https://github.com/user-attachments/assets/71e7e499-8a0d-4425-9294-6c65ede9f77a)
+次にハサミなどで外形に沿って切り出します。<br/>
+この時外形線をほんの少し残すように微妙に大きめに切るのがポイントです。<br/>
+鉛筆などで外形を描いていれば消しゴムで消せるので問題なし。<br/>
+![IMG_7182](https://github.com/user-attachments/assets/b6f59d26-af6d-45d5-b6b4-e85fc125c315)<br/>
+※実際は裏側になるので線はそのままでも実用上問題にはならないです。<br/>
+<br/>
+<br/>
 
+切り出したものがこちら。<br/>
+![IMG_7183](https://github.com/user-attachments/assets/75e25066-9305-4235-afb0-31a4ee57b77c)<br/>
+<br/>
+<br/>
 
-![IMG_7179](https://github.com/user-attachments/assets/171344dd-3e2a-4d5d-873a-800702219c7a)
+ピンセットなどを使って切り出した素材を額縁に収めます。<br/>
+![IMG_7185](https://github.com/user-attachments/assets/d5333ba4-4679-41e7-880b-ee7e22a230cf)<br/>
+<br/>
 
+微妙に大きく切ることで溝に引っ掛けて落ちないように出来ます。<br/>
+あまり大きく切りすぎると入らないので調整しつつ切り出すようにしてください。<br/>
+![IMG_7186](https://github.com/user-attachments/assets/be2162c2-e047-4af5-b6dc-1c1e1a68243f)<br/>
+<br/>
+<br/>
 
-
-![IMG_7180](https://github.com/user-attachments/assets/32b5d0c8-dd91-453f-bae1-94a94550b82d)
-
-
-
-![IMG_7181](https://github.com/user-attachments/assets/28447861-37dc-4c4c-ae05-9e57a57e1a2d)
-
-
-
-![IMG_7182](https://github.com/user-attachments/assets/b6f59d26-af6d-45d5-b6b4-e85fc125c315)
-
-
-![IMG_7183](https://github.com/user-attachments/assets/75e25066-9305-4235-afb0-31a4ee57b77c)
-
-
-![IMG_7185](https://github.com/user-attachments/assets/d5333ba4-4679-41e7-880b-ee7e22a230cf)
-
-
-
-![IMG_7186](https://github.com/user-attachments/assets/be2162c2-e047-4af5-b6dc-1c1e1a68243f)
-
-
-![IMG_7187](https://github.com/user-attachments/assets/0c2c574b-5e81-45f6-a37e-bb06efc5fcaa)
+しっかりはまるとこういう感じになります。<br/>
+他の部分も同じようにしていきます。<br/>
+![IMG_7187](https://github.com/user-attachments/assets/0c2c574b-5e81-45f6-a37e-bb06efc5fcaa)<br/>
+<br/>
+<br/>
+<br/>
 
 
 ![IMG_7188](https://github.com/user-attachments/assets/043a4cb6-8db9-4e87-87d6-50c78673f3bc)
@@ -680,7 +716,6 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 
 
 ![IMG_7189](https://github.com/user-attachments/assets/c632f048-5da7-47fb-b099-bceea6f57e60)
-
 
 
 
