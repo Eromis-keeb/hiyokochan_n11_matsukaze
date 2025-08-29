@@ -312,38 +312,49 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 マイコンのRP2040−ZEROを取り付けていきます。<br/>
 
 ![IMG_7120](https://github.com/user-attachments/assets/55fef620-5e93-4884-b67a-6b1e555991ed)
-
+<br/>
+<br/>
 
 
 はじめにコンスルーを取り付けます。<br/>
 ![IMG_7121](https://github.com/user-attachments/assets/b1f98b22-a8a5-48bc-9606-8eb73b9180d7)
+<br/>
+<br/>
 
 コンスルーには向きがあります。写真の緑枠内ように小さい四角の窓が空いており、コンスルーを平らに置いたとき上より、赤線、青線が示すとおり下よりといったように方向性があります。<br/>
 ![IMG_7127](https://github.com/user-attachments/assets/a55d3c82-0a8f-4a20-9688-ec92b5cdaef3)
+<br/>
+<br/>
 
+
+基板を裏向きにします。<br/>
+![IMG_7125](https://github.com/user-attachments/assets/7233ba3b-d9dc-45f2-90da-ac68b045d2b2)<br/>
+<br/>
 マイコンのピンの並びに合うようにコンスルーをニッパーなどで切断してマイコンをはんだ付けする土台を作っていきます。<br/>
 その四角の窓が下よりの向きになるようにコンスルーの向きを整えます。<br/>
-基板を裏向きにします。<br/>
-![IMG_7125](https://github.com/user-attachments/assets/7233ba3b-d9dc-45f2-90da-ac68b045d2b2)
-
-
+<br/>
 下向きの窓が基板側になるようにコンスルーを基板の穴に差し込みます。<br/>
 ![IMG_7128](https://github.com/user-attachments/assets/2692d3d3-6828-441a-9897-5790f578733c)
-
+<br/>
+<br/>
 
 このとき、窓がある側面を同じ方向に揃えて差し込みます。写真では手前になるようにしています。揃っていればどちらでも構いません。（たぶん・・）<br/>
 ![IMG_7129](https://github.com/user-attachments/assets/22d33f41-c5f4-413b-8045-7832c5018533)
-
-
+<br/>
+<br/>
 ※コンスルーは基板側にははんだ付けしません。はんだ付けしてしまっても問題ありませんが、コンスルーである意味がなくなってしまいます。（取り外せるというのがメリット）<br/>
-![IMG_7130](https://github.com/user-attachments/assets/b72b95b3-c892-414c-9faa-02d015765e00)
+<br/>
+<br/>
+![IMG_7130](https://github.com/user-attachments/assets/b72b95b3-c892-414c-9faa-02d015765e00)<br/>
+<br/>
+<br/>
 
-
-基板に印刷された番号とマイコンの番号を合わせるようにマイコンを差し込みます。BOOT、RESETスイッチがあるほうが裏目（LEDやスイッチソケットがはんだ付けされている面）となります。<br/>
+基板に印刷された番号(緑枠)とマイコンの番号（オレンジ枠）を合わせるようにマイコンを差し込みます。BOOT、RESETスイッチがあるほうが裏目（LEDやスイッチソケットがはんだ付けされている面）となります。<br/>
 向きに注意してください。<br/>
 ![IMG_7131](https://github.com/user-attachments/assets/634a2154-5f24-450c-a219-a236af31a195)<br/>
 このとき、フラックスを塗布してから差し込むようにしておくと綺麗にできると思います。<br/>
-
+<br/>
+<br/>
 
 パッドをはんだごてで温めはんだを流し込んでいきます。<br/>
 ![IMG_7132](https://github.com/user-attachments/assets/fee5d801-9833-4e3f-bd03-31a76fdc55d3)
@@ -351,6 +362,8 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 ![IMG_7133](https://github.com/user-attachments/assets/6bbd0739-4bf9-4915-bb16-1a3f90d9518b)
 
 順番はどこからでも問題ないですが、順番にやっていったほうがやり易いかと思います。<br/>
+<br/>
+<br/>
 
-
-![IMG_7135](https://github.com/user-attachments/assets/f29b6086-e746-4d71-bd4c-ad8c02da6219)
+はんだ付け完了<br/>
+![IMG_7135](https://github.com/user-attachments/assets/f29b6086-e746-4d71-bd4c-ad8c02da6219)<br/>
