@@ -230,13 +230,33 @@ LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダ�
 ![IMG_7007](https://github.com/user-attachments/assets/5a849d9c-f1d7-4011-94bb-4814b2ea1ded)
 <br/>
 <br/>
+<br/>
+
+### 4.スイッチソケットの取り付け
+<br/>
+<br/>
+![IMG_7076](https://github.com/user-attachments/assets/73aafaac-82a4-4145-a90a-f7f581871770)
 
 
-### 4.ロータリーエンコーダーの取り付け
+MXスイッチソケットを取り付けていきます。<br/>
+<br/>
+![IMG_7077](https://github.com/user-attachments/assets/b5a3c895-7141-430e-9302-8483a2070a9b)
+
+![IMG_7078](https://github.com/user-attachments/assets/8dfdfbd3-1e32-4696-8c7c-62d920df8bc6)
+
+![IMG_7079](https://github.com/user-attachments/assets/8cb72141-86e1-4702-8b44-efd529bc4beb)
+
+![IMG_7079](https://github.com/user-attachments/assets/80615f80-0fca-4fcd-a86f-ad81147b7305)
+
+![IMG_7080](https://github.com/user-attachments/assets/83cd8f6f-8af0-4f26-b614-8478223bffc1)
+
+
+
+### 5.ロータリーエンコーダーの取り付け
 <br/>
 <br/>
 
-#### 4-１.Millmaxの取り付け
+#### 5-１.Millmaxの取り付け
 <br/>
 <br/>
 Millmaxを１つのロータリーエンコーダーに対して５つ、３つのロータリーエンコーダーを取り付けるので計15個はんだ付けしていきます。<br/>
@@ -284,7 +304,7 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 <br/>
 <br/>
 
-#### 4-2.ロータリーエンコーダー本体の取り付け
+#### 5-2.ロータリーエンコーダー本体の取り付け
 <br/>
 <br/>
 
@@ -307,12 +327,12 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 <br/>
 <br/>
 
-### 5.マイコン(RP2040−ZERO)の取り付け
+### 6.マイコン(RP2040−ZERO)の取り付け
 <br/>
 <br/>
 マイコンのRP2040−ZEROを取り付けていきます。<br/>
 ※ここででは取り付け方を説明しますが、マイコンの不良などの可能性もあるため、<br/>
-実際のところは後述する、6.マイコンにVialファームウェアを書き込む項目を先にやってから取り付けるほうが懸命です。<br/>
+実際のところは後述する、7.マイコンにVialファームウェアを書き込む項目を先にやってから取り付けるほうが懸命です。<br/>
 コンスルーを使用しているので最悪の場合取り外して新しいものに交換は出来ますが、<br/>
 コンスルーが勿体ないので。<br/>
 
@@ -376,7 +396,7 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 <br/>
 <br/>
 
-### 6.マイコン（RP2040-ZERO）へVialファームウェアを書き込む
+### 7.マイコン（RP2040-ZERO）へVialファームウェアを書き込む
 <br/>
 <br/>
 
@@ -455,7 +475,7 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 
 
 
-#### 7.ケースの組み立て<br/>
+#### 8.ケースの組み立て<br/>
 <br/>
 <br/>
 
