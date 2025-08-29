@@ -601,11 +601,11 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 <br/>
 <br/>
 
-最後に
+最後にお好みのキースイッチを取り付け<br/>
 ![IMG_7166](https://github.com/user-attachments/assets/9deeed82-a7d5-4773-9863-c8d237e65fbe)
+<br/>
 
-
-
+キーキャップを取り付け、エンコーダーノブを取り付けたら完成です。<br/>
 
 ![IMG_7167](https://github.com/user-attachments/assets/a77a1318-8e2a-4bd2-9b74-7961e81ae299)
 
@@ -613,8 +613,11 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 
 
 
-
+必要に応じてスタビライザー（２U部分）を取り付けたり、後述するミドルプレートを好みに彩ったりと楽しんでいただければと。<br/>
+お疲れ様でした！！<br/>
 ![IMG_7168](https://github.com/user-attachments/assets/40c93db5-04c7-4770-9d93-bf247aee19b2)
-
+<br/>
+<br/>
+<br/>
 
 
