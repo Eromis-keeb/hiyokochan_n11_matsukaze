@@ -1,6 +1,6 @@
 ![IMG_7039](https://github.com/user-attachments/assets/f73fa648-31b9-47ec-b195-29c7eed49437)
 # 松風 / hiyokochan_n11 ビルドガイド
-hiyokochan_n11/松風は以下の特徴を備えるマクロパッドです。
+松風/hiyokochan_n11は以下の特徴を備えるマクロパッドです。
 - テンキー配列の11キー
 - 3つのロータリーエンコーダー（プッシュボタン付き）
 - ３つのトグルスイッチによる機能変更（レイヤー変更）
