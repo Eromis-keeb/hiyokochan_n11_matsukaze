@@ -433,6 +433,15 @@ hiyokochan/matsukazeの名前が選択できるはずです。<br/>
 <br/>
 
 これで基板は完成です。<br/>
+![IMG_7140](https://github.com/user-attachments/assets/99368468-6655-4802-80bb-7bb92207391d)
+
+
+
+
+
+
+
+
 
 
 
