@@ -520,7 +520,7 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 ![IMG_7147](https://github.com/user-attachments/assets/8e0e1313-fc3a-4699-8d8b-131e588ff830)<br/>
 <br/>
 <br/>
-写真のように表側にスペーサーを置き、裏側からM2ネジでとめます。ｌ<br/>
+写真のように表側にスペーサーを置き、裏側からM2ネジでとめます。<br/>
 ![IMG_7148](https://github.com/user-attachments/assets/f2d89995-7d26-4550-8b5b-ca6bbf668bb6)<br/>
 <br/>
 <br/>
@@ -557,51 +557,51 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 
 
 ![IMG_7156](https://github.com/user-attachments/assets/9fa1b6b0-02c0-446a-892a-128f6673a9df)<br/>
+<br/>
+<br/>
 
-
-
-![IMG_7156](https://github.com/user-attachments/assets/53e7a1d8-b2c7-4460-8aab-6484d82368a5)<br/>
-
-
-
-
+続いて基板を乗せます。<br/>
 ![IMG_7157](https://github.com/user-attachments/assets/09708884-3350-4949-9768-9daffc594aca)<br/>
 
 
-
+写真のように溝に収めます。<br/>
 ![IMG_7158](https://github.com/user-attachments/assets/aee6350b-5946-47cc-9e49-e0499413692a)
+<br/>
+<br/>
 
-
-
-
+次にミドルプレート（上）を被せます。
+すんなり乗らない場合は、ミドルプレート（下）の時と同じ要領で一度スペーサーを通してから乗せるようにます。<br/>
 ![IMG_7159](https://github.com/user-attachments/assets/3b2a2458-23de-4130-9e94-4350829d9e3b)
+<br/>
+<br/>
 
-
-
+綺麗に被せるとこのような形になります。<br/>
 ![IMG_7160](https://github.com/user-attachments/assets/a0879c74-d6fd-4975-9dfa-edc45c7ec378)
+<br/>
+<br/>
 
-
-
+続いてトッププレートをとめていきます。<br/>
 ![IMG_7161](https://github.com/user-attachments/assets/bc2df46a-3282-40c0-a6eb-6026def9e46b)
+<br/>
 
-
-
+保護フィルムを剥がして（裏表とも）<br/>
 ![IMG_7162](https://github.com/user-attachments/assets/2a70d768-3211-474b-b94a-bb4864b4b02b)
+<br/>
 
-
-
+写真のとおりに最上段に乗せたら<br/>
 ![IMG_7163](https://github.com/user-attachments/assets/53fbaa4b-1879-48f4-bb74-ba8cd7d45825)
+<br/>
 
-
-
+M2ネジ（３−５mm）を使って固定していきます。<br/>
 ![IMG_7164](https://github.com/user-attachments/assets/24d43d66-7bf1-4491-bdf6-11a32f3de467)
+<br/>
 
-
-
+全てとめたらこのような形になります。<br/>
 ![IMG_7165](https://github.com/user-attachments/assets/f6dbcefd-46ae-4f79-8bee-bf65c7de16bb)
+<br/>
+<br/>
 
-
-
+最後に
 ![IMG_7166](https://github.com/user-attachments/assets/9deeed82-a7d5-4773-9863-c8d237e65fbe)
 
 
