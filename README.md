@@ -433,8 +433,11 @@ hiyokochan/matsukazeの名前が選択できるはずです。<br/>
 <br/>
 
 これで基板は完成です。<br/>
-![IMG_7140](https://github.com/user-attachments/assets/99368468-6655-4802-80bb-7bb92207391d)
-
+![IMG_7140](https://github.com/user-attachments/assets/99368468-6655-4802-80bb-7bb92207391d)<br/>
+vialソフトウェア上のLightingタブでライティングアニメーションを変更するなどして、全LEDがぺかーーーーーーーー！<br/> 
+っと光っていればこれまでの全工程が概ね成功と言えます。お疲れ様でございます。<br/>
+続いて、ロータリーエンコーダーも設定したとおりに機能するか確かめましょう。<br/>
+Vol＋、Vol−に設定して確認すると分かり易いかと思います。<br/>
 
 
 
