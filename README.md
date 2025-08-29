@@ -389,6 +389,26 @@ vialファームウェアに関しては別途ご自身のコンピューター�
 <br/>
 
 
+![IMG_7135](https://github.com/user-attachments/assets/5ed1a502-34a1-4ff4-b024-cd0c2a46613e)<br/>
+
+![IMG_7136](https://github.com/user-attachments/assets/f6e0ef7e-b5ff-494b-88e6-9fab15779f4a)
+
+![IMG_7137](https://github.com/user-attachments/assets/e429bbc7-2ce0-4570-9130-d023f99d2775)
+
+
+![スクリーンショット 2025-08-28 13 46 29](https://github.com/user-attachments/assets/495127dd-6c2b-4c33-9527-bb3fba222889)
+
+![スクリーンショット 2025-08-28 13 49 18](https://github.com/user-attachments/assets/2cf3b4e6-16b8-4a9e-9ff5-6b5a20260f8c)
+
+![IMG_7139](https://github.com/user-attachments/assets/4f16f403-315c-4d3e-8432-95d6c6ef822c)
+
+![スクリーンショット 2025-08-28 13 51 33](https://github.com/user-attachments/assets/efa3c2f1-6351-438d-a0b8-3dc4ee6c0227)
+
+![IMG_7141](https://github.com/user-attachments/assets/b52fad6a-6c09-493c-84af-719013540ef9)
+
+![スクリーンショット 2025-08-28 13 52 24](https://github.com/user-attachments/assets/5c047a3b-35db-4cc0-b770-553ef8bdd836)
+
+
 
 
 
