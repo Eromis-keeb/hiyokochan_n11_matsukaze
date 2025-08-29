@@ -342,9 +342,8 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 ![IMG_7129](https://github.com/user-attachments/assets/22d33f41-c5f4-413b-8045-7832c5018533)
 <br/>
 <br/>
+
 ※コンスルーは基板側にははんだ付けしません。はんだ付けしてしまっても問題ありませんが、コンスルーである意味がなくなってしまいます。（取り外せるというのがメリット）<br/>
-<br/>
-<br/>
 ![IMG_7130](https://github.com/user-attachments/assets/b72b95b3-c892-414c-9faa-02d015765e00)<br/>
 <br/>
 <br/>
