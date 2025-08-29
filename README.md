@@ -346,6 +346,11 @@ Millmaxを１つのロータリーエンコーダーに対して５つ、３つ�
 
 
 パッドをはんだごてで温めはんだを流し込んでいきます。<br/>
+![IMG_7132](https://github.com/user-attachments/assets/fee5d801-9833-4e3f-bd03-31a76fdc55d3)
+
+![IMG_7133](https://github.com/user-attachments/assets/6bbd0739-4bf9-4915-bb16-1a3f90d9518b)
+
 順番はどこからでも問題ないですが、順番にやっていったほうがやり易いかと思います。<br/>
 
 
+![IMG_7135](https://github.com/user-attachments/assets/f29b6086-e746-4d71-bd4c-ad8c02da6219)
