@@ -675,6 +675,7 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 ![IMG_7187](https://github.com/user-attachments/assets/0c2c574b-5e81-45f6-a37e-bb06efc5fcaa)
 
 
+![IMG_7188](https://github.com/user-attachments/assets/043a4cb6-8db9-4e87-87d6-50c78673f3bc)
 
 
 
