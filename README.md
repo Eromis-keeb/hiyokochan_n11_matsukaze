@@ -693,29 +693,40 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 <br/>
 <br/>
 
-ピンセットなどを使って切り出した素材を額縁に収めます。<br/>
+
 ![IMG_7185](https://github.com/user-attachments/assets/d5333ba4-4679-41e7-880b-ee7e22a230cf)<br/>
+<br/>
+
+ピンセットなどを使って切り出した素材を額縁に収めます。<br/>
+![IMG_7186](https://github.com/user-attachments/assets/be2162c2-e047-4af5-b6dc-1c1e1a68243f)<br/>
+<br/>
 <br/>
 
 微妙に大きく切ることで溝に引っ掛けて落ちないように出来ます。<br/>
 あまり大きく切りすぎると入らないので調整しつつ切り出すようにしてください。<br/>
-![IMG_7186](https://github.com/user-attachments/assets/be2162c2-e047-4af5-b6dc-1c1e1a68243f)<br/>
+![IMG_7187](https://github.com/user-attachments/assets/0c2c574b-5e81-45f6-a37e-bb06efc5fcaa)<br/>
 <br/>
 <br/>
 
 しっかりはまるとこういう感じになります。<br/>
 他の部分も同じようにしていきます。<br/>
-![IMG_7187](https://github.com/user-attachments/assets/0c2c574b-5e81-45f6-a37e-bb06efc5fcaa)<br/>
+![IMG_7188](https://github.com/user-attachments/assets/043a4cb6-8db9-4e87-87d6-50c78673f3bc)<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+作例
+作者は和柄が好きなのでバックストリートファクトリーから発売されている千代切紙を使用して和柄にデコレーションしています。<br/>
+色々な柄があり、とても美しいのでおすすめです。<br/>
+折り紙としては少々高いですが、その分の価値はあります。<br/>
+是非とも色々な組み合わせを試していただきたいです。<br/>
+素敵なのが出来上がったらSNS等で共有していただけるととても嬉しいです。<br/>
+![IMG_7189](https://github.com/user-attachments/assets/c632f048-5da7-47fb-b099-bceea6f57e60)<br/>
 <br/>
 <br/>
 <br/>
 
-
-![IMG_7188](https://github.com/user-attachments/assets/043a4cb6-8db9-4e87-87d6-50c78673f3bc)
-
-
-
-![IMG_7189](https://github.com/user-attachments/assets/c632f048-5da7-47fb-b099-bceea6f57e60)
 
 
 
