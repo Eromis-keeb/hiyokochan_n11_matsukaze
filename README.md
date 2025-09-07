@@ -1,4 +1,4 @@
-![IMG_7039](https://github.com/user-attachments/assets/f73fa648-31b9-47ec-b195-29c7eed49437)
+![](https://github.com/Eromis-keeb/hiyokochan_n11_matsukaze/blob/b1bbb1344e28a23c95c7e8dff003ac5ced8861e3/image/480279097-f73fa648-31b9-47ec-b195-29c7eed49437.jpg)
 # 松風 / hiyokochan_n11 ビルドガイド
 松風/hiyokochan_n11は以下の特徴を備えるマクロパッドです。
 - テンキー配列の11キー
