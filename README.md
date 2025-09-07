@@ -58,7 +58,7 @@ MXキーキャップ |x11
 写真でマイコンが既に付いているものがありますが、組み立て上確認しながらやりたい場合は先にマイコンのはんだ付けをしてから作業すると確実になります。<br/>
 但し、はんだ付けに慣れていない場合は、マイコンを付けた状態でLEDやSMDダイオードなど細かい部品は取り付け辛い場合があるため、ここではマイコンを付けない状態を前提として説明をしていきます。
 
-![IMG_6974](https://github.com/user-attachments/assets/49af0c97-d4c3-4640-bef5-6b61a42c7d46)
+![](image/480285421-49af0c97-d4c3-4640-bef5-6b61a42c7d46.jpg)
 
 LED→SMDダイオード→スイッチソケットの順ではんだ付けします。<br/>
 <br/>
@@ -67,30 +67,30 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 ### 1.LEDの取り付け
 レベルシフト回路にチップ抵抗とMOSFETをはんだ付け→LEDのはんだ付けの準で処理していきます。
 #### 1-1.チップ抵抗、MOSFETの取り付け
-![IMG_6975](https://github.com/user-attachments/assets/915f73e8-3a22-4d67-ae6d-2d71322a0dd8)
+![](image/480285463-915f73e8-3a22-4d67-ae6d-2d71322a0dd8.jpg)
 <br/>
 <br/>
 <br/>
 
 このチップ抵抗と
-![IMG_6976](https://github.com/user-attachments/assets/cf97941b-9ee8-4c10-bf84-435638d50abd)
+![](image/480289165-cf97941b-9ee8-4c10-bf84-435638d50abd.jpg)
 <br/>
 <br/>
 このMOSFETを基板にはんだ付けしていきます。
-![IMG_6977](https://github.com/user-attachments/assets/cacae60c-cd6c-48a1-9984-fdc310d2eeee)
+![](image/480289182-cacae60c-cd6c-48a1-9984-fdc310d2eeee.jpg)
 <br/>
 <br/>
 <br/>
 
 基板裏面の赤枠の部分にはんだ付けしていきます。
-![IMG_6978](https://github.com/user-attachments/assets/d46dc75a-036a-4bf0-bdeb-e56670230e30)
-![IMG_6978](https://github.com/user-attachments/assets/904d63b0-3a59-4903-be75-18168b018219)
+![](image/480289199-d46dc75a-036a-4bf0-bdeb-e56670230e30.jpg)
+![](image/480289232-904d63b0-3a59-4903-be75-18168b018219.jpg)
 <br/>
 <br/>
 
 フラックスを塗布してから青枠のように片側に予備はんだをしていきます。
 はんだごてにごく少量はんだを乗せてからパッドにこて先をあて、こて先を少し立てるようにするとはんだが流れて乗りやすくなると思います。
-![IMG_6980](https://github.com/user-attachments/assets/36eca67b-2711-4263-83fb-180ad9495646)
+![](image/480289258-36eca67b-2711-4263-83fb-180ad9495646.jpg)
 <br/>
 <br/>
 
@@ -98,12 +98,12 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 予備はんだをこて先で溶かし部品をスライドさせれば上手く付けられると思います。<br/>
 スライドさせたら、はんだごてを離し１−２秒ほど部品をそのまま保持すると上手く行きます。<br/>
 はんだごてより先に保持した部品を動かさないように気をつけましょう。
-![IMG_6981](https://github.com/user-attachments/assets/d2698fca-a977-4286-a89b-c182623f999f)
+![](image/480289275-d2698fca-a977-4286-a89b-c182623f999f.jpg)
 <br/>
 <br/>
 
 片側がきっちり固定できたら反対側もはんだ付けしていきます。<br/>
-![IMG_6982](https://github.com/user-attachments/assets/d3e959c9-2cfd-42b4-ada5-93a7c82b3fff)
+![](image/480289287-d3e959c9-2cfd-42b4-ada5-93a7c82b3fff.jpg)
 
 <br/>
 <br/>
