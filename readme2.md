@@ -32,7 +32,7 @@ https://github.com/Eromis-keeb/hiyokochan_n11_matsukaze/blob/169a056d2d58242f48d
 カスタムプレートを使用する場合もチャレンジキット用のビルドガイドの最後にカスタムガイドがあります。<br/>
 <br/>
 ※このビルドガイドでは若紫基板を使って説明しています。<br/>
-写真がわかりにくい場合はチャレンジキットのビルドガイドでは松風基板を使って説明しているので,そちらを参照するのが良いかもしれません。<br/>
+写真がわかりにくい場合はチャレンジキットのビルドガイドでは松風基板を使って説明しているので,そちらの”８.ケースの組み立て”を参照するのが良いでしょう。。<br/>
 
 
 ## 必要な物
@@ -73,7 +73,8 @@ MXキーキャップ |x11
 <br/>
 ## 組み立て
 基板部分は若紫基板を使用して解説していきますが、どのモデルでも内容は同じなので適宜読み替えてください。hiyokochanシリーズとは基板共用なので全く同じです。<br/>
-ところどころ別基板の写真が使われいる箇所がありますが、こちらも適宜読み替えて眼の前の基板と照らし合わせて組み立てを行ってください。
+ところどころ別基板の写真が使われいる箇所がありますが、こちらも適宜読み替えて眼の前の基板と照らし合わせて組み立てを行ってください。<br/>
+
 <br/>
 
 ### 1.ボトムプレートの組み立て
@@ -203,14 +204,14 @@ MXキーキャップ |x11
 <br/>
 
 1ー2までに作ったボトムプレートにミドルプレートを組み付けていきます。<br/>
-<img width="1024" height="768" alt="4AC758EF-DF96-43F8-9C15-A85DCB240132_1_105_c" src="https://github.com/user-attachments/assets/ddc1873d-ca1a-4cc1-8f5e-cdf2704ee5f7" /> <br/>
+
+<img width="2048" height="1536" alt="246A76F5-9BA0-49F6-8D1D-285436BE7330_1_102_a" src="https://github.com/user-attachments/assets/c97b9561-edc4-4124-9e09-965e56ea6ece" /> <br/>
 ミドルプレート下を用意します。<br/>
 このとき必要であればカスタムプレートなどを使用することもできます。<br/>
 <br/>
 <br/>
 
 ミドルプレートをボトムプレートに乗せてスペーサーを差し込む形で組み付けます。 <br/>
-<img width="4032" height="3024" alt="ECCCB265-FFF9-4933-B97E-25517A3C1AF2_1_201_a" src="https://github.com/user-attachments/assets/f18d44e3-0a57-4fda-b74d-533ddf546bdb" /> <br/>
 隙間がないように差し込んでください。 <br/>
 ![IMG_7154](https://github.com/user-attachments/assets/aa1b5fc9-c2e2-4aa2-a70f-e9af4f91dc79)<br/>
 <br/>
@@ -226,25 +227,24 @@ MXキーキャップ |x11
 <br/>
 
 ミドルプレート下の取り付け完了 <br/>
-<img width="768" height="1024" alt="95E9BBB1-7182-4DC9-8EB6-4A8C3A51A9C3_1_105_c" src="https://github.com/user-attachments/assets/cccda228-ea41-4ff3-b087-1599144630d5" /> <br/>
+<img width="1536" height="2048" alt="FAA70F5D-7E77-4AFA-B7F0-BDB86CA2BF31_1_102_o" src="https://github.com/user-attachments/assets/fe1a3544-e399-4f29-86d0-5afbabd0e212" />
+ <br/>
 <br/>
 <br/>
 
 #### ２-2.基板の取り付け<br/>
 <br/>
 次に基板を取り付けていきます。 <br/>
-<img width="1024" height="768" alt="6B176C75-2DBB-4626-890A-CAA626E52C60_1_105_c" src="https://github.com/user-attachments/assets/928c76b7-14b7-4cfa-9c53-25ea9e101aec" /> <br/>
-<br/>
-
+<img width="2048" height="1536" alt="B90FAE65-A210-4A2E-8C25-29711DE36ECD_1_102_a" src="https://github.com/user-attachments/assets/8a8fd073-1291-446f-9f1d-f8df24998e50" /> <br/>
 基板をミドルプレートの上に乗せます。　<br/>
-<img width="4032" height="3024" alt="1A9771D5-B89D-4186-951F-3F35BF6891DC_1_201_a" src="https://github.com/user-attachments/assets/bb549cc6-12a9-44b7-bd5a-2d7fc0eacb51" /> <br/>
+ <br/>
 向きが間違っていなければすんなり嵌るはずです。<br/>
 カポッと軽く嵌まらなければ組み付けの向きが間違っている可能性があります。無理やりやらずに戻って確認してください。<br/>
 <br/>
 <br/>
 
 基板の取り付け完了<br/>
-<img width="1024" height="768" alt="5F996B35-2EB8-46E6-895A-13D9396B8370_1_105_c" src="https://github.com/user-attachments/assets/ec564f0c-ef99-4af3-8a1f-cdb4e8cf22ee" />　<br/>
+<img width="768" height="1024" alt="428AEAC9-AFEE-4A4A-BBAE-1C7C93EC4CC0_1_105_c" src="https://github.com/user-attachments/assets/7ce5f6ab-c013-4782-93e5-018227ebc539" /> <br/>
 <br/>
 <br/>
 
@@ -270,16 +270,15 @@ MXキーキャップ |x11
 <br/>
 
 ２ー２までに作ったものの上にミドルプレート上を乗せてスペーサーを差し込む形で取り付けます。<br/>
-<img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/b9733988-e75c-448d-a7d0-4dbf5c38fe67" /> <br/>
+<img width="1024" height="768" alt="D2835753-5F46-49E6-8FE1-87E89F99CB23_1_105_c" src="https://github.com/user-attachments/assets/862c9a16-ec63-44dd-98f8-3f25c6a3c386" /> <br/>
 <br/>
-
-<img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/a8c3316d-5968-4bfc-9045-da56afb47043" /> <br/>
 ミドルプレート下のときと同様に差し込み辛い場合はあらかじめ一つづつスペーサーをプレートに通してからやるとスムーズに組み付けできます。 <br/>
 <br/>
 <br/>
 
 ミドルプレート上組み付け完了。<br/>
-<img width="1024" height="768" alt="194D1A51-03DD-4769-A544-EFDD2E293FFC_1_105_c" src="https://github.com/user-attachments/assets/12c5db06-fe4f-499d-9803-441c0e6573c8" /> <br/>
+<img width="768" height="1024" alt="32672529-891F-4E06-B2EB-0978CAA6CCAC_1_105_c" src="https://github.com/user-attachments/assets/25cf81be-a818-4005-8620-919220979c9a" />
+<br/>
 <br/>
 <br/>
 
@@ -287,33 +286,32 @@ MXキーキャップ |x11
 ### 3.トッププレートの取り付け
 2-3までに作った本体にトッププレートを取り付けていきます。<br/>
 <br/>
-
-<img width="1024" height="768" alt="88AF1C7F-B106-4304-A05C-04D1353E6571_1_105_c" src="https://github.com/user-attachments/assets/045a6dba-f8c5-494d-8734-9d939debbc09" /> <br/>
+<img width="1024" height="768" alt="D8B075B2-7F6E-4410-8957-8BB22002E233_1_105_c" src="https://github.com/user-attachments/assets/7506e21a-8298-4466-9fb8-628911f60cc6" /> <br/>
 トップ用ネジ（5mm）を６本用意します。<br/>
 トッププレートのフィルムを剥がします。<br/>
 <br/>
 <br/>
 
 裏表に注意してトッププレートを本体に乗せます。<br/>
-<img width="1024" height="768" alt="F659118D-63A7-4F28-9385-391F5161828B_1_105_c" src="https://github.com/user-attachments/assets/71e0fc7a-d21a-4308-97ce-3c09bbf6d5df" /> <br/>
+<img width="2048" height="1536" alt="FD9CE0C1-4C16-4254-8732-E7C5B0A6548C_1_102_a" src="https://github.com/user-attachments/assets/f891e001-3021-4d59-bc60-a830212fd17e" /> <br/>
 ※裏表が違うとネジ穴が合いません。<br/>
 <br/>
 <br/>
 
 トッププレートを載せたらネジ止めしていきます。<br/>
-<img width="1024" height="768" alt="9685B174-E480-4726-BCA6-D20768C895E7_1_105_c" src="https://github.com/user-attachments/assets/4adcbcfd-bb58-45be-9f6b-63980ad08966" /> <br/>
+<img width="1536" height="2048" alt="041B6606-ECDC-4DAE-82CE-486E19F0D8FD_1_102_o" src="https://github.com/user-attachments/assets/7fd3e048-00e4-423c-b913-fef830061e8b" /> <br/>
 <br/>
 <br/>
 
 スペーサーの穴が見えている部分にネジ止めします。<br/>
-<img width="768" height="1024" alt="05D33CBA-0150-461E-A1E4-CA97F436D66D_1_105_c" src="https://github.com/user-attachments/assets/4e78fb0f-a343-4c3a-9832-539942e17138" /> <br/>
+<img width="1536" height="2048" alt="B5203D46-066C-4D48-838D-3EE3D3E1372E_1_102_o" src="https://github.com/user-attachments/assets/cb7ed8fd-65e3-45ff-97f6-2e979f6af188" /> <br/>
 青枠内の６箇所に5mmネジで止めます。<br/>
 最初は軽く締めて対角を少しずつ絞めるのがポイントです。<br/>
 <br/>
 <br/>
 
 これで本体は完成です！<br/>
-<img width="768" height="1024" alt="9C4A4B2B-13B7-4023-B05A-D2D864FA4B05_1_105_c" src="https://github.com/user-attachments/assets/a4c6496a-72c8-4979-ba0c-a8e716d7854b" /> <br/>
+<img width="1536" height="2048" alt="34A73274-9958-4450-9146-035ABDB1AAC4_1_102_o" src="https://github.com/user-attachments/assets/2449a2a1-752e-4088-9343-eef9176fa4dd" /> <br/>
 <br/>
 <br/>
 
