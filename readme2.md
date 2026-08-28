@@ -320,12 +320,13 @@ MXキーキャップ |x11
 仕上げは好きなキースイッチやキーキャップを付けて使えるようにしていきます。<br/>
 <br/>
 
-<img width="768" height="1024" alt="4ABEA8D3-D12D-487E-83DD-62AB7FAC8BA8_1_105_c" src="https://github.com/user-attachments/assets/60d685e7-58c0-4c60-8ff6-bdd2687e076b" /> <br/>
+<img width="1536" height="2048" alt="DD1803D4-C8FC-4D7E-A076-24384CD66FCD_1_102_o" src="https://github.com/user-attachments/assets/6c84ce2e-5cd5-4d63-b2dc-4946ba3641cd" /> <br/>
 <br/>
 <br/>
 
 キースイッチを付けます。<br/>
-<img width="768" height="1024" alt="2E28995F-BBE6-456D-83DE-04B62DA539C6_1_105_c" src="https://github.com/user-attachments/assets/ba5b681c-5fd6-497e-8c6d-447db5fa36f6" /> <br/>
+<img width="1536" height="2048" alt="BDA3A241-74F8-4DE4-B540-5AAD260988A5_1_102_o" src="https://github.com/user-attachments/assets/010e2715-3811-43b6-8b50-1d557b3a8dfd" />
+ <br/>
 キースイッチによっては嵌め込みが硬い場合もあります。<br/>
 多くはそれほど力をかけずとも付くはずなので、無理に力を入れすぎてピンを折ったり曲げたりしないように注意してください。<br/>
 万一、曲がってしまった場合はラジオペンチなどで挟んでまっすぐ矯正すれば再び使えることが殆どです。<br/>
@@ -334,17 +335,15 @@ MXキーキャップ |x11
 <br/>
 
 キースイッチが付いたらキーキャップを取り付けます。<br/>
-<img width="768" height="1024" alt="9D435325-2163-40D6-9ADD-80D30E544996_1_105_c" src="https://github.com/user-attachments/assets/78eef0c9-9f59-4085-8a33-2dff70bfe6c4" /> <br/>
+<img width="1536" height="2048" alt="7D95896C-D772-439D-8E24-8BA207A0F8B9_1_102_o" src="https://github.com/user-attachments/assets/82b489f6-4586-4f46-a2bf-a34374b5f957" />
+ <br/>
 <br/>
 
 お好みのデザイン、カラーのキーキャップを取り付けることでいろいろな見た目を楽しめます。<br/>
-<img width="768" height="1024" alt="2566B36B-CC7B-4F48-9C30-3C5D00551BCD_1_105_c" src="https://github.com/user-attachments/assets/439b71fa-962a-4cbc-b543-69fca6e8f9cf" /> <br/>
 自作キーボードのカスタマイズの肝の部分ですね。<br/>
 <br/>
 <br/>
-
 最後にロータリーエンコーダーノブを取り付けて完成！<br/>
-<img width="768" height="1024" alt="0CDAD361-1CCC-4EC1-B44F-A45255D15710_1_105_c" src="https://github.com/user-attachments/assets/f0bb8e99-21f5-4ad1-a014-c286bb35c9f1" /> <br/>
 付属の標準ノブでも良いですし様々な作家さんの作るアルチザンエンコーダーノブもオススメです。<br/>
 ビルドガイド上は直径17mmくらいまでとなってますが、作者の確認する限りでは22mm位までは一応付きます。（使いやすいかどうかは別）<br/>
 
